@@ -1,0 +1,4 @@
+Singing in the Rain	Dave Jones	Dave's Greatest Hits	1990	Wonderful	200
+Talking in the Rain	Dave Jones	Dave's Greatest Hits	1990	Wonderful	200
+Walking in the Rain	Jones	Greatest Hits	1991	Wonderful	220
+Test	Timbre Freeman	NA	2020	for Testing	15
